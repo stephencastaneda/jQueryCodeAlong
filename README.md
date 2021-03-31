@@ -9,7 +9,9 @@
 
 1. Create a fade in effect using jQuery's `.hide()` & `.fadeIn()` method
 *TYPE* 
-`$("li:lt(4)").hide().fadeIn(1500)`
+```
+$("li:lt(4)").hide().fadeIn(1500)
+```
 
 2. Create a function to remove bullet points when clicked
 *TYPE* 

@@ -1,4 +1,10 @@
-# jQueryCodeAlong
+# jQueryCodeAlong - Homework Agenda
+
+In this code along you will be using jQuery to add some cool features to a homework agenda. These features include:
+- Fade in for all list items
+- List item removal after click
+- Center button to center everything on page
+- Dark mode button that toggles dark mode on and off
 
 ## Setup Instructions
 
